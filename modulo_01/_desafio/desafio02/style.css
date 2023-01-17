@@ -1,0 +1,25 @@
+body {
+    background-color: #2b2a2a;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h1, #principal {
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    margin-top: 15px;
+}
+
+#principal {
+    margin-top: 10px;
+}
+
+a {
+    color: violet;
+}
+
+footer {
+    margin-top: 350px;
+}

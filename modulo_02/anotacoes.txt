@@ -1,0 +1,56 @@
+=======*-Psicologia das Cores-*=======
+
+// Uma pessoa tende a entrar em um site cujas cores a agradam mais, isso é chamado de psicologia das cores. Para fazer com que o site fique mais bonito, agradável e chamativo é correto utilizar desse método. Cada paleta de cores tem seu significado, para saber como isso funciona basta acessar o PDF do capítulo 13 do módulo de HTML do Guanabara. Também vale pontuar que existem combinações de cores que funcionam melhor e que, se usadas em conjunto, podem ser uma boa opção de desgin para um site.
+
+/* NT.: Cada cor tem seu significado.
+
+=======*- Maneiras de representar uma cor *-=======
+
+// hsl(Hue, Saturation, Luminosity)
+// rgb(Red, Green, Blue)
+// hexadecimal (0 1 2 3 4 5 6 7 8 9 A B C D E F)
+
+
+=======*- Círculo Cromático *-=======
+
+Cores primárias: Amarelo, Vermelho e Azul.
+Cores secundárias: Verde, Laranja e Violeta.
+Cores terciárias: Amarelo-esverdeado, Amarelo-alaranjado, Vermelho-alaranjado, Vermerlho-arroxeado, Azul-arroxeado e Azul-esverdeado.
+
+/* Cores frias e cores quentes (só como um mapa mental).
+
+/* Paleta de cores com, NO MÁXIMO, 3 a 5 cores!
+
+-> Para gerar contraste, usar a cor oposta a cor principal no círculo cromático.
+
+--> Cores Análogas: São as cores vizinhas (do lado) no círculo cromático. -- As cores análogas também ajudam a ter um design mais bonito da página.
+
+--> Cores análogas e uma complementar: Conjunto das cores análogas mais uma cor oposta a cor principal da página.
+
+--> Cores análogas relacionadas: Cores análogas, porém ao invés de usar as duas cores ao lado da cor principal, pular uma das cores e usar a cor ao lado da que foi pulada.
+
+--> Cores intercaladas: Já dá pra entender só pelo nome.
+
+--> Cores triádicas: Pular três cores depois da principal.
+
+--> Cores em quadrado: Pular duas cores, formando um quadrado dentro do círculo cromático de 12 cores.
+
+--> Monocromia: Escolher uma única cor só que diminuir a luminosidade e a saturação para gerar mais cores.
+
+=======*- Paleta de cores *-=======
+
+--> Sites para ajudar a escolher a paleta de cores para o desenvolvimento do site: - color.adobe.com 
+                                                                                   - paletton.com
+                                                                                   - coolors.co
+
+
+
+** Child em CSS **---
+
+--> (div > p) : uma div possui um <p> dentro dela. Esse método é usado para identificar um elemento filho dentro da tag e ajudar a selecionar melhor um elementodo site e fazer coisas dinâmicas com ele.
+
+***********************************************************************************************************
+
+==- Box-shadow -==
+
+// Parâmetro 'inset' serve para sombra interna.
